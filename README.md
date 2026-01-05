@@ -14,4 +14,3 @@ The next objective was to fill in the area under the graph, as this was what the
 The midpoint and leftpoint methods for this were quite straight forward as they were bar graphs, so the trapezium rule was done first, giving us this.
 
 After that the graphs were tidied with titles, colours, clear lines and put into subplots to make more appealing and easy to compare.
-The last thing added was the actual real value calculated with integration, to compare to the methods implamented here.
