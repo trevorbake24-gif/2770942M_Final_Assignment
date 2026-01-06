@@ -52,4 +52,4 @@ The above graphs show how close it is at n=10, it gets closer and closer, and by
 
 The below graphs displays the data from the table above, of the different methods for f(x)= x, sin(x), and e^(-x) *sin(x). It, aswell as the table above show that the trapezium and midpoint are reliable and generally acurate for atleast n=4 and above here. However the Leftpoint rule is very inaccurate untill n is high, even higher than n =100 is needed for it to reach the value of the others in the table. This could be expected though as it is based on the left side so chunks of area are left out or added as extra at lower values of n than the others need to stabilise.
 
-<img src="" width="600" height="900">
+<img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/8a27368d218015406b9142a73c1c2003eb4e3ede/Screenshot%20(225).png" width="600" height="900">
