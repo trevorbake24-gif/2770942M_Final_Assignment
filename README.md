@@ -47,3 +47,9 @@ Images of graphs at n=2 for f(x)= x, sin(x), and e^(-x) *sin(x), diplayed left t
 Images of graphs at n=10 for f(x)= x, sin(x), and e^(-x) *sin(x), diplayed left to right.
 
 <img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/ae667d0eb6ddf534e0f9ae80c80319426a5f1a91/Screenshot%20(218).png" width="300" height="900"> <img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/d68353857d2f9cd173d024aa790869bec1c57260/Screenshot%20(220).png" width="300" height="900"> <img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/8b7e7f09cbc5c436e60fc676ffe66a22e7690435/Screenshot%20(223).png" width="300" height="900">
+
+The above graphs show how close it is at n=10, it gets closer and closer, and by n=100 it is hard if not impossible for the human eye to notice even the Leftpoint rule graph not having the full area covered.
+
+The below graphs displays the data from the table above, of the different methods for f(x)= x, sin(x), and e^(-x) *sin(x). It, aswell as the table above show that the trapezium and midpoint are reliable and generally acurate for atleast n=4 and above here. However the Leftpoint rule is very inaccurate untill n is high, even higher than n =100 is needed for it to reach the value of the others in the table. This could be expected though as it is based on the left side so chunks of area are left out or added as extra at lower values of n than the others need to stabilise.
+
+<img src="" width="600" height="900">
