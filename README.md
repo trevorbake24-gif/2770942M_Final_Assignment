@@ -38,7 +38,7 @@ After that the graphs were tidied with titles, colours, clear lines and put into
 
 For the function set to x, sin(x) & e^(-x) *sin(x) each with the value of aproximation, n increasing, results as shown;
 
-<img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/1a3066b7d8af41d6b68198ec9b3ea7a9ed55863b/Screenshot%20(224).png" width="400" height="900">
+<img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/1a3066b7d8af41d6b68198ec9b3ea7a9ed55863b/Screenshot%20(224).png" width="800" height="1800">
 
 <img src="" width="400" height="900">
 <img src="" width="400" height="900">
