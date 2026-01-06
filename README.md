@@ -42,11 +42,9 @@ For the function set to x, sin(x) & e^(-x) *sin(x) each with the value of aproxi
 
 Images of graphs at n=2 for f(x)= x, sin(x), and e^(-x) *sin(x), diplayed left to right.
 
-<img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/fd0003024dc3c41529b3092253da0fa48e330f43/Screenshot%20(215).png" width="400" height="900">
-<img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/2e0c73c840c495eca71b4e04cb0a26d9a731a684/Screenshot%20(219).png" width="400" height="900">
-<img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/87d87ae79683b7555f4c53c35b1d04d45ce2f325/Screenshot%20(221).png" width="400" height="900">
+<img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/fd0003024dc3c41529b3092253da0fa48e330f43/Screenshot%20(215).png" width="300" height="900"> <img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/2e0c73c840c495eca71b4e04cb0a26d9a731a684/Screenshot%20(219).png" width="300" height="900"> <img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/87d87ae79683b7555f4c53c35b1d04d45ce2f325/Screenshot%20(221).png" width="300" height="900">
 
 
-<img src="" width="400" height="900">
-<img src="" width="400" height="900">
-<img src="" width="400" height="900">
+<img src="" width="300" height="900">
+<img src="" width="300" height="900">
+<img src="" width="300" height="900">
