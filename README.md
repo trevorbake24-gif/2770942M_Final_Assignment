@@ -33,7 +33,7 @@ The midpoint and leftpoint methods for this were quite straight forward as they 
 
 After that the graphs were tidied with titles, colours, clear lines and put into subplots to make more appealing and easy to compare.
 
-<img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/9ca7ac6f16a31dd88cbf4f4f1231abd1db5e5d89/Screenshot%20(214).png" width="400" height="900">
+<img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/9ca7ac6f16a31dd88cbf4f4f1231abd1db5e5d89/Screenshot%20(214).png" width="800" height="900">
 
 
 For the function set to x, sin(x) & e^(-x) *sin(x) each with the value of aproximation, n increasing, results as shown;
