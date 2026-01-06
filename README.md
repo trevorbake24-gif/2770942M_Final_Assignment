@@ -1,7 +1,7 @@
 # 2770942M_Final_Assignment
 Lewis mawer, mechanical engineering skills, Computing assignment markdown file report
 
-This report follows the code made for the assignment; 'Numerical Integration - Rectangular Rule and Trapezoidal Rule', the codes initial and main aim is to calculate the area under a given function using trapezoid rule, aswell as either leftside rule or midpoint rule.
+This report follows the code made for the assignment; 'Numerical Integration - Rectangular Rule and Trapezoidal Rule', the codes initial and main aim is to calculate the area under a given function using trapezoid rule, aswell as either leftside rule or midpoint rule and to find data over specific inputs.
 
 The starting point was figuring out on paper the best way to implament the midpoint rule, this led to the equations shown below. 
 This was tidied up, and the Trapezoidal rule was added, both proved with many variables and functions. This is the main objective, of assignment, but it is just the base of the code.
