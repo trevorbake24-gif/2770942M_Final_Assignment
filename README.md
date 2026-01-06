@@ -55,4 +55,4 @@ The below graphs displays the data from the table above, of the different method
 <img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/8a27368d218015406b9142a73c1c2003eb4e3ede/Screenshot%20(225).png" width="600" height="900">
 
 
-![Full Python Script](Lmawer04_Trapezium and rectangular point-Copy1.ipynb.url) 
+![Full Python Script](https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/d14c6f258d65940bc6c7cc034ac51b0f5be07beb/Lmawer04_Trapezium%20and%20rectangular%20point-Copy1.ipynb.url) 
