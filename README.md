@@ -21,11 +21,14 @@ To make the code easier to use with different functions and variables, it was ch
 <img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/2e75e6455250a00b3274832fa43e953f60341fb1/Screenshot%20(207).png" width="400" height="900">
 
 
-The next objective was to fill in the area under the graph, as this was what these methods were to calculate, though once this was done it was clear that a graph of each method and their actual shape was needed.
+The next objective was to fill in the area under the graph, as this was what these methods were to calculate.
+
+<img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/f446bcbefb4f40c8def16e6af2bc0449ead9dd15/Screenshot%20(210).png" width="400" height="900"> 
+
+However once this was done it was clear that a graph of each method and their actual shape was needed.
 The midpoint and leftpoint methods for this were quite straight forward as they were bar graphs, so the trapezium rule was done first, giving us this.
 
-
-<img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/f446bcbefb4f40c8def16e6af2bc0449ead9dd15/Screenshot%20(210).png" width="400" height="900"> <img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/4076e3c19e2e296781b37f88821890f0881982e3/Screenshot%20(211).png" width="400" height="900"> <img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/bf3d0ca949af49e70268b1ce4ef97645f5bd8614/Screenshot%20(213).png" width="400" height="900">
+<img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/4076e3c19e2e296781b37f88821890f0881982e3/Screenshot%20(211).png" width="400" height="900"> <img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/bf3d0ca949af49e70268b1ce4ef97645f5bd8614/Screenshot%20(213).png" width="400" height="900">
 
 
 After that the graphs were tidied with titles, colours, clear lines and put into subplots to make more appealing and easy to compare.
