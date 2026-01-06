@@ -42,7 +42,7 @@ For the function set to x, sin(x) & e^(-x) *sin(x) each with the value of aproxi
 
 Images of graphs at n=2 for f(x)= x, sin(x), and e^(-x) *sin(x), diplayed left to right.
 
-<img src="" width="400" height="900">
+<img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/fd0003024dc3c41529b3092253da0fa48e330f43/Screenshot%20(215).png" width="400" height="900">
 <img src="" width="400" height="900">
 <img src="" width="400" height="900">
 
