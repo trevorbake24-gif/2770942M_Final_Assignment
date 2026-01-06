@@ -14,9 +14,9 @@ The leftside rule was mostly calculated here due to the midpoint equations, so i
 <img src="" width="400" height="900">
 <img src="" width="400" height="900">
 
-To make the code easier to use with different functions and variables, it was changed so these were all inputs at the start, being; the function, the x axis limits and the number of slices, n. This was disabled except for n, for the data collection requested for assignment, but useful for code outwith.
+To make the code easier to use with different functions and variables, it was changed so these were all inputs at the start, being; the function, the x axis limits and the number of slices, n. This was disabled except for n for the data collection requested for assignment, but useful for code outwith.
 
-<img src="" width="400" height="900">
+<img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/2e75e6455250a00b3274832fa43e953f60341fb1/Screenshot%20(207).png" width="400" height="900">
 
 
 The next objective was to fill in the area under the graph, as this was what these methods were to calculate, though once this was done it was clear that a graph of each method and their actual shape was needed.
