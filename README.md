@@ -11,8 +11,7 @@ This was tidied up, and the Trapezoidal rule was added, both proved with many va
 
 The leftside rule was mostly calculated here due to the midpoint equations, so it was added aswell. Then the function's graph was added to display the shape in the calculations, this also meant the slice lines needed to be visible, so they were added using the grid, but omitting the horizontal lines, and basing it on the slice input, n.
 
-<img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/28972b38739eb7ac4513fef75e04a6a99dd59501/Screenshot%20(208).png" width="400" height="900">
-<img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/d088ebc9dd5816a8d1f6e774ad0253f827f9bb32/Screenshot%20(209).png" width="400" height="900">
+<img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/28972b38739eb7ac4513fef75e04a6a99dd59501/Screenshot%20(208).png" width="400" height="900"><img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/d088ebc9dd5816a8d1f6e774ad0253f827f9bb32/Screenshot%20(209).png" width="400" height="900">
 
 To make the code easier to use with different functions and variables, it was changed so these were all inputs at the start, being; the function, the x axis limits and the number of slices, n. This was disabled except for n for the data collection requested for assignment, but useful for code outwith.
 
