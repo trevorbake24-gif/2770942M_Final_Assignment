@@ -5,6 +5,7 @@ This report follows the code made for the assignment; 'Numerical Integration - R
 
 The starting point was figuring out on paper the best way to implament the midpoint rule, this led to the equations shown here. 
 This was tidied up, and the Trapezoidal rule was added, both proved with many variables and functions. This is the main objective, of assignment, but it is just the base of the code.
+![something](Screenshot (202).png)
 
 The leftside rule was mostly calculated here due to the midpoint equations, so it was added aswell. Then the function's graph was added to display the shape in the calculations, this also meant the slice lines needed to be visible, so they were added using the grid, but omitting the horizontal lines, and basing it on the slice input, n.
 
