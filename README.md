@@ -5,9 +5,9 @@ This report follows the code made for the assignment; 'Numerical Integration - R
 
 The starting point was figuring out on paper the best way to implament the midpoint rule, this led to the equations shown here. 
 This was tidied up, and the Trapezoidal rule was added, both proved with many variables and functions. This is the main objective, of assignment, but it is just the base of the code.
-![something](https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/38ec5c1e6795712d9089240fb85950aaba37c088/Screenshot%20(202).png | width=100)
 
-<img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/38ec5c1e6795712d9089240fb85950aaba37c088/Screenshot%20(202).png" width="200" height="400" />
+
+<img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/38ec5c1e6795712d9089240fb85950aaba37c088/Screenshot%20(202).png" width="400" height="800" />
 
 
 
