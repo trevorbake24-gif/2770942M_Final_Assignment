@@ -15,4 +15,5 @@ The midpoint and leftpoint methods for this were quite straight forward as they 
 
 After that the graphs were tidied with titles, colours, clear lines and put into subplots to make more appealing and easy to compare.
 
+
 For the function set to x, sin(x) & e^(-x) *sin(x) each with the value of aproximation, n increasing, results as shown;
