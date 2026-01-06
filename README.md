@@ -9,7 +9,7 @@ This was tidied up, and the Trapezoidal rule was added, both proved with many va
 
 <img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/38ec5c1e6795712d9089240fb85950aaba37c088/Screenshot%20(202).png" width="400" height="800" />
 
-
+<img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/5bf7a8cc3f12d12351ae999afa868a10ad9c983e/Screenshot%20(203).png" width="400" height="800" />
 
 The leftside rule was mostly calculated here due to the midpoint equations, so it was added aswell. Then the function's graph was added to display the shape in the calculations, this also meant the slice lines needed to be visible, so they were added using the grid, but omitting the horizontal lines, and basing it on the slice input, n.
 
