@@ -40,9 +40,13 @@ For the function set to x, sin(x) & e^(-x) *sin(x) each with the value of aproxi
 
 <img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/1a3066b7d8af41d6b68198ec9b3ea7a9ed55863b/Screenshot%20(224).png" width="1000" height="1200">
 
+Images of graphs at n=2 for f(x)= x, sin(x), and e^(-x) *sin(x), diplayed left to right.
+
 <img src="" width="400" height="900">
 <img src="" width="400" height="900">
 <img src="" width="400" height="900">
+
+
 <img src="" width="400" height="900">
 <img src="" width="400" height="900">
 <img src="" width="400" height="900">
