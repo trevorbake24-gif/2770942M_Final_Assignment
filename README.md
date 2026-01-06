@@ -47,5 +47,5 @@ Images of graphs at n=2 for f(x)= x, sin(x), and e^(-x) *sin(x), diplayed left t
 Images of graphs at n=10 for f(x)= x, sin(x), and e^(-x) *sin(x), diplayed left to right.
 
 <img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/ae667d0eb6ddf534e0f9ae80c80319426a5f1a91/Screenshot%20(218).png" width="300" height="900">
-<img src="" width="300" height="900">
+<img src="https://github.com/trevorbake24-gif/2770942M_Final_Assignment/blob/d68353857d2f9cd173d024aa790869bec1c57260/Screenshot%20(220).png" width="300" height="900">
 <img src="" width="300" height="900">
